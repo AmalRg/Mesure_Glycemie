@@ -2,6 +2,7 @@
 
 
 Welcome to our Glucose Monitoring Application repository ! 👩‍🔬
+
 This Java-based app ☕, developed with XML and following the MVC architecture, is designed for easy and efficient tracking of blood glucose levels 🍚.
 
 
